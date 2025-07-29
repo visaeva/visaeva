@@ -8,7 +8,6 @@ IOS developer
 
 *   🌍 Based in Moscow
 *   🖥️ Check out my projects [here](http://github.com/visaeva?tab=repositories)
-*   🚀 Currently, collaborating with [FakeNFT](https://github.com/YanikMax/iOS-FakeNFT-StarterProject-Public) as a team
 *   ⚡ Fun fact: I have a background as an optometrist
 
    ### Skills:
