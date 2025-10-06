@@ -4,7 +4,7 @@ Hi! My name is Victoria
 IOS developer
 -------------
 
-#### Already finished course of IOS develop and looking for interesting projects.
+#### Looking for interesting projects.
 
 *   🌍 Based in Moscow
 *   🖥️ Check out my projects [here](http://github.com/visaeva?tab=repositories)
