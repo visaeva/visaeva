@@ -36,19 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <a href="http://www.github.com/visaeva">
-    <img src="https://github-readme-stats.vercel.app/api?username=visaeva&show_icons=true&count_private=true&title_color=14b8a6&text_color=10b981&icon_color=14b8a6&bg_color=ffffff&hide_border=true" alt="Victoria's GitHub stats" />
-  </a>
-  <a href="http://www.github.com/visaeva">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visaeva&title_color=14b8a6&text_color=10b981&bg_color=ffffff&hide_border=true&layout=compact" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ### 🤝 Connect with me
 
 <div align="left">
